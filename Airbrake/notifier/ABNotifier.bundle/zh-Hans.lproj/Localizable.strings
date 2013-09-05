@@ -1,0 +1,5 @@
+"NOTICE_TITLE" = "崩溃报告";
+"NOTICE_BODY" = "％@检测到一个尚未发送的崩溃错误，是否将其发送给开发者？";
+"SEND" = "发送";
+"DONT_SEND" = "不发送";
+"ALWAYS_SEND" = "总是发送";
